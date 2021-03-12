@@ -1,0 +1,8 @@
+http://localhost:8082/spring-boot-app/api/v1/test
+
+
+C5_PathParam_And_QueryParam_Controller
+http://localhost:8082/spring-boot-app/api/param
+
+Paginated params
+http://localhost:8082/spring-boot-app/student/v2/all?pageNo=0&limit=100&sortBy=sno&sortOrder=desc
